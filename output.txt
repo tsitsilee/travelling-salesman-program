@@ -1,0 +1,92 @@
+lsvotwa  (attempted_pruning)
+1
+24
+OptiPizza, #1 Mozzarella Road. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Somename, #1 Some Street. 
+Ms. Ctrlaltname, #4 Del ete Street. 
+Ms. Altname, #3 Alt Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+2
+29
+OptiPizza, #1 Mozzarella Road. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Somename, #1 Some Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+3
+24
+OptiPizza, #1 Mozzarella Road. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Somename, #1 Some Street. 
+Ms. Ctrlaltname, #4 Del ete Street. 
+Ms. Altname, #3 Alt Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+4
+4
+OptiPizza, #1 Mozzarella Road. 
+Mr. Somename, #1 Some Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+5
+26
+OptiPizza, #1 Mozzarella Road. 
+Mr. Somename, #1 Some Street. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Nextone, #5 Esc Street 
+Ms. Altname, #3 Alt Street. 
+Ms. Ctrlaltname, #4 Del ete Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+6
+27
+OptiPizza, #1 Mozzarella Road. 
+Ms. Altname, #3 Alt Street. 
+Ms. Ctrlaltname, #4 Del ete Street. 
+Mr. Nextone, #6 Escgh Street 
+Mr. Somename, #1 Some Street. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Nextone, #5 Esc Street 
+OptiPizza, #1 Mozzarella Road. 
+
+7
+20
+OptiPizza, #1 Mozzarella Road. 
+Ms. Altname, #3 Alt Street. 
+Mr. Nextone, #7 Ecgh Street 
+Ms. Ctrlaltname, #4 Del ete Street. 
+Mr. Nextone, #6 Escgh Street 
+Mr. Somename, #1 Some Street. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Nextone, #5 Esc Street 
+OptiPizza, #1 Mozzarella Road. 
+
+8
+19
+OptiPizza, #1 Mozzarella Road. 
+Mr. Somename, #1 Some Street. 
+Mr. Someothername, #2 Someother Street. 
+Mr. Nextone, #5 Esc Street 
+Ms. Altnazzme, #3 Alzt Street. 
+Ms. Ctrlazzltname, #4 Dezdl ete Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+9
+28
+OptiPizza, #1 Mozzarella Road. 
+Mr. Somename, #1 Some Street. 
+Mr. Someothername, #2 Someothfer Street. 
+Mr. Nextone, #5 Esfc Street 
+Ms. Ctrlaltname, #4 Dedl ete Street. 
+Ms. Altname, #3 Alt Street. 
+OptiPizza, #1 Mozzarella Road. 
+
+10
+29
+OptiPizza, #1 Mozzarella Road. 
+Ms. Altname, #2 Alt Street. 
+Mr. Somename, #1 Some Street. 
+OptiPizza, #1 Mozzarella Road. 
+
